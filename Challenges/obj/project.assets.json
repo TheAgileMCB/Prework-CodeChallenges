@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\Challenges\\Challenges.csproj",
+      "projectUniqueName": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\code-401\\Prework-CodeChallenges\\Challenges\\Challenges.csproj",
       "projectName": "Challenges",
-      "projectPath": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\Challenges\\Challenges.csproj",
+      "projectPath": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\code-401\\Prework-CodeChallenges\\Challenges\\Challenges.csproj",
       "packagesPath": "C:\\Users\\mcb4r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\Challenges\\obj\\",
+      "outputPath": "C:\\Users\\mcb4r\\OneDrive\\Desktop\\github\\code-401\\Prework-CodeChallenges\\Challenges\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -10,18 +10,14 @@ namespace Challenges
             int[] numbers = new int[5];
 
             // request 5 int from 1-10
-            for (int i = 0; i > 6; i ++)
+            for (int i = 0; i < numbers.Length; i ++)
             {
                 Console.WriteLine("Please enter a number from 1 - 10.");
                 numbers[i] = int.Parse(Console.ReadLine());
-                if (numbers[i] <= 10)
-                {
-                    
-                }
             }
-
+            
            // output the array of 5 int
-           Console.WriteLine();
+           Console.WriteLine(string.Join(",", numbers));
 
             // user selects 1
             int.Parse(Console.ReadLine());
@@ -32,7 +28,7 @@ namespace Challenges
             Console.WriteLine();
 
            // compose readme
-
+          
         }
     }
 }
